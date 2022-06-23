@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Testing update here
+          Testing update here - another change
         </p>
       </main>
 
